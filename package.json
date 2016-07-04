@@ -1,0 +1,19 @@
+{
+  "name": "mytestproj",
+  "version": "1.0.0",
+  "description": "This is a test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajneeshjoshi4/mytestProject.git"
+  },
+  "author": "Rajneesh Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajneeshjoshi4/mytestProject/issues"
+  },
+  "homepage": "https://github.com/rajneeshjoshi4/mytestProject#readme"
+}
